@@ -129,9 +129,7 @@ public class MainActivity extends AppCompatActivity {
 //                    drinkModel.setStory(finalObject.getString("story"));
 //
 //                   
-//                    }
-//                    movieModel.setCastList(castList);
-                    // adding the final object in the list
+
                     drinkModelList.add(drinkModel);
                 }
                 return drinkModelList;
